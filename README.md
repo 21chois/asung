@@ -1,2 +1,2 @@
-# asung
+# asung(아성)
 AI 학습 및 지식
